@@ -3,15 +3,17 @@
 
 
 
-<br><br><br><br><p align="center">![alt text](PCMain.jpg)</p>
+<br><br><br><br><p align="center">![alt text](MB.jpg)</p>
 
 
 
-<p align="center"> <br><br><br><br><br><br>This project will briefly go over with the parts that you need for your PC, what are they and what they do.<br> 
-<br>For all the people who are trying to build their computers themselves but not familiar with computer parts.</p>
+<p align="center"> <br><br><br><br><br><br>
+   This is a part where you will attach other parts that needed for your computer.
+  <br> MB will make the input & output work smoothly.
+   <br>You will choose MB according to the your CPU so that they can be compatible. 
+</p>
 
 <br><br><br>
-- [MB(Main Board)](https://github.com/jjthd/JjthdFianlProject/blob/main/MB.md)
 - [CPU](https://github.com/jjthd/JjthdFianlProject/blob/main/CPU.md)
 - [RAM](https://github.com/jjthd/JjthdFianlProject/blob/main/RAM.md)
 - [HDD(Hard Disk Drive)](https://github.com/jjthd/JjthdFianlProject/blob/main/HDD.md)
