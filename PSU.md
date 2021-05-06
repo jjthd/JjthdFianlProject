@@ -3,12 +3,12 @@
 
 
 
-<br><br><br><br><p align="center">![alt text](PCMain.jpg)</p>
+<br><br><br><br><p align="center">![alt text](PSU.jpg)</p>
 
 
 
 <p align="center"> <br><br><br><br><br><br>
-PSU is a part that supply power to your computer
+PSU is a part that supplies power to your computer
 
 
 </p>
