@@ -21,6 +21,7 @@ There are various in size, so you need to check if the case you would like to bu
 - [HDD(Hard Disk Drive)](https://github.com/jjthd/JjthdFianlProject/blob/main/HDD.md)
 - [GPU(Graphic Card)](https://github.com/jjthd/JjthdFianlProject/blob/main/GPU.md)
 - [PSU(Power Supply)](https://github.com/jjthd/JjthdFianlProject/blob/main/PSU.md)
+- [Homepage](https://github.com/jjthd/JjthdFianlProject/blob/main/README.md)
 
 
 
