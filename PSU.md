@@ -20,5 +20,6 @@ PSU is a part that supplies power to your computer
 - [HDD(Hard Disk Drive)](https://github.com/jjthd/JjthdFianlProject/blob/main/HDD.md)
 - [GPU(Graphic Card)](https://github.com/jjthd/JjthdFianlProject/blob/main/GPU.md)
 - [Case](https://github.com/jjthd/JjthdFianlProject/blob/main/CASE.md)
+- [Homepage](https://github.com/jjthd/JjthdFianlProject/blob/main/README.md)
 
 
