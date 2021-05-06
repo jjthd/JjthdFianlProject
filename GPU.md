@@ -3,12 +3,19 @@
 
 
 
-<br><br><br><br><p align="center">![alt text](PCMain.jpg)</p>
+<br><br><br><br><p align="center">![alt text](GPU.jpg)</p>
 
 
 
-<p align="center"> <br><br><br><br><br><br>This project will briefly go over with the parts that you need for your PC, what are they and what they do.<br> 
-<br>For all the people who are trying to build their computers themselves but not familiar with computer parts.</p>
+<p align="center"> <br><br><br><br><br><br>
+GPU is  the part that works for the graphics<br><br>
+Everything that you think is related to graphics, GPU takes care of it mostly<br><br>
+i.e  Video games with high quality graphic works require high quality GPU
+
+
+
+
+</p>
 
 <br><br><br>
 - [MB(Main Board)](https://github.com/jjthd/JjthdFianlProject/blob/main/MB.md)
