@@ -3,12 +3,16 @@
 
 
 
-<br><br><br><br><p align="center">![alt text](PCMain.jpg)</p>
+<br><br><br><br><p align="center">![alt text](CASE.png)</p>
 
 
 
-<p align="center"> <br><br><br><br><br><br>This project will briefly go over with the parts that you need for your PC, what are they and what they do.<br> 
-<br>For all the people who are trying to build their computers themselves but not familiar with computer parts.</p>
+<p align="center"> <br><br><br><br><br><br>
+Case is a protection that covers all the parts<br><br>
+There are various in size, so you need to check if the case you would like to buy supports the mainboard you are using
+
+
+</p>
 
 <br><br><br>
 - [MB(Main Board)](https://github.com/jjthd/JjthdFianlProject/blob/main/MB.md)
@@ -17,6 +21,6 @@
 - [HDD(Hard Disk Drive)](https://github.com/jjthd/JjthdFianlProject/blob/main/HDD.md)
 - [GPU(Graphic Card)](https://github.com/jjthd/JjthdFianlProject/blob/main/GPU.md)
 - [PSU(Power Supply)](https://github.com/jjthd/JjthdFianlProject/blob/main/PSU.md)
-- [Case](https://github.com/jjthd/JjthdFianlProject/blob/main/CASE.md)
+
 
 
