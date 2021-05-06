@@ -8,7 +8,7 @@
 
 
 <p align="center"> <br><br><br><br><br><br>
-CPU is a brain of your PC<br><br>
+CPU is a brain of your computer<br><br>
 There two brands that produce CPUs which are intel and AMD<br><br>
 CPU with higher numbers are better than the lowers<br><br>
 i.e i5-6500 < i7-6500<br>
