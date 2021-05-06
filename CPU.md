@@ -26,4 +26,5 @@ i.e i5-6500 < i7-6500<br>
 - [GPU(Graphic Card)](https://github.com/jjthd/JjthdFianlProject/blob/main/GPU.md)
 - [PSU(Power Supply)](https://github.com/jjthd/JjthdFianlProject/blob/main/PSU.md)
 - [Case](https://github.com/jjthd/JjthdFianlProject/blob/main/CASE.md)
+- [Homepage](https://github.com/jjthd/JjthdFianlProject/blob/main/README.md)
 
