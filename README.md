@@ -18,5 +18,6 @@
 - [GPU(Graphic Card)](https://github.com/jjthd/JjthdFianlProject/blob/main/GPU.md)
 - [PSU(Power Supply)](https://github.com/jjthd/JjthdFianlProject/blob/main/PSU.md)
 - [Case](https://github.com/jjthd/JjthdFianlProject/blob/main/CASE.md)
+- [Reference](https://github.com/jjthd/JjthdFianlProject/blob/main/CASE.md)
 
 
