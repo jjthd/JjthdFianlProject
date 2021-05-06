@@ -9,8 +9,8 @@
 
 <p align="center"> <br><br><br><br><br><br>
    This is a part where you will attach other parts that needed for your computer.
-  <br> MB will make the input & output work smoothly.
-   <br>You will choose MB according to the your CPU so that they can be compatible. 
+  <br><br>MB will make the input & output work smoothly.
+   <br><br>You will choose MB according to the your CPU so that they can be compatible. 
 </p>
 
 <br><br><br>
