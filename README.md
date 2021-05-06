@@ -11,10 +11,10 @@
 <br>For all the people who are trying to build their computers themselves but not familiar with computer parts.</p>
 
 <br><br><br>
-- CPU
-- HDD(Hard Disk Drive)
-- RAM
-- GPU(Graphic Card)
-- PWD(Power Supply)
-- MB(Main Board)
-- Case
+- [CPU](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
+- [HDD(Hard Disk Drive)](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
+- [RAM](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
+- [GPU(Graphic Card)](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
+- [PWD(Power Supply)](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
+- [MB(Main Board)](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
+- [Case](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
